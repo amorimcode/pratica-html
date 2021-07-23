@@ -1,0 +1,27 @@
+body {
+  background-color: #eee;
+  font: normal 15pt Verdana;
+  text-align: center;
+}
+
+input {
+  border: none;
+  border-radius: 0.2rem;
+  padding: 0.8rem;
+  width: 100%;
+}
+
+button {
+    background-color: blue;
+    border: none;
+    color: #FFFFFF;
+    padding: 15px 32px;
+    text-align: center;
+    margin: 16px 0;
+    text-decoration: none;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+
+
